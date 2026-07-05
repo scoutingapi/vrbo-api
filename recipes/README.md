@@ -9,3 +9,4 @@ Ready-made automations you can run on vrbo data — each ships as an importable 
 - [Cross-OTA rate-parity monitor → parity-exception digest](./rate-parity-monitor.md) — Watch how your own listing's rate shows across OTAs on a schedule and flag any platform underselling the market median.
 - [STR market scan → Google Sheet dataset](./str-market-scan.md) — Scan a short-term-rental market — discover listings across platforms, price the top N for your dates, and append a normalized row-per-listing dataset to a Google Sheet.
 - [Competitor rate & availability benchmark → report](./comp-set-benchmark.md) — Benchmark your listing’s rate and availability against a defined comp-set and get a weekly position report.
+- [Portfolio price & occupancy feed](./portfolio-feed.md) — A daily digest across a saved set of listings — price, rating and recent reviews per listing in one report.
