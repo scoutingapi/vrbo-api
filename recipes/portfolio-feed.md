@@ -13,10 +13,10 @@ Owners and property managers watch a fixed set of listings — their own units, 
 
 ## Get it
 
-- **AI-agent skill + n8n workflow:** [portfolio-feed in travel-workflows](https://github.com/scoutingapi/travel-workflows) · rendered detail page: [https://scoutingapi.com/workflows/portfolio-feed](https://scoutingapi.com/workflows/portfolio-feed)
+- **AI-agent skill + n8n workflow:** [portfolio-feed in travel-workflows](https://github.com/stayingapi/travel-workflows) · rendered detail page: [https://stayingapi.com/workflows/portfolio-feed](https://stayingapi.com/workflows/portfolio-feed)
 - **Endpoints used:** `listing`, `price`, `reviews`
 
-Failed/empty calls are free; sandbox calls cost 0. Costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing).
+Failed/empty calls are free; sandbox calls cost 0. Costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing).
 
 ---
 

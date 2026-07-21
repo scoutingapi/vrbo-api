@@ -13,10 +13,10 @@ For a defined comp-set of listings, pull each one’s price and day-by-day avail
 
 ## Get it
 
-- **AI-agent skill + n8n workflow:** [comp-set-benchmark in travel-workflows](https://github.com/scoutingapi/travel-workflows) · rendered detail page: [https://scoutingapi.com/workflows/comp-set-benchmark](https://scoutingapi.com/workflows/comp-set-benchmark)
+- **AI-agent skill + n8n workflow:** [comp-set-benchmark in travel-workflows](https://github.com/stayingapi/travel-workflows) · rendered detail page: [https://stayingapi.com/workflows/comp-set-benchmark](https://stayingapi.com/workflows/comp-set-benchmark)
 - **Endpoints used:** `price`, `availability`, `listing`
 
-Failed/empty calls are free; sandbox calls cost 0. Costs: [https://scoutingapi.com/pricing](https://scoutingapi.com/pricing).
+Failed/empty calls are free; sandbox calls cost 0. Costs: [https://stayingapi.com/pricing](https://stayingapi.com/pricing).
 
 ---
 

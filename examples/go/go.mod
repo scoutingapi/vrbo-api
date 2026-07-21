@@ -1,3 +1,3 @@
-module github.com/scoutingapi/vrbo-api/examples/go
+module github.com/stayingapi/vrbo-api/examples/go
 
 go 1.22
